@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Md Raihan<br><br>- 🔭 I’m working on Vassar Labs as Software Developer<br>- 📚 I'm currently learning Javascript<br>- 👨‍💻 All of my projects are available at https://github.com/Raihan-123<br>- 💬 Ask me about Python, Django, java, SpringBoot, Mysql, Postgresql<br>- 📫 How to reach me mohdraihan0786@gmail.com</p>
+<p align="left">I'm Md Raihan<br><br>- 🔭 I’m working on Softwar Giant as Software Developer<br>- 📚 I'm currently learning Javascript<br>- 👨‍💻 All of my projects are available at https://github.com/Raihan-123<br>- 💬 Ask me about Python, Django, java, SpringBoot, Mysql, Postgresql<br>- 📫 How to reach me mohdraihan0786@gmail.com</p>
 
 ###
 
